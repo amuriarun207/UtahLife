@@ -1,0 +1,142 @@
+[
+  {
+    "id": "slc-road-clear",
+    "locationId": "slc",
+    "roadName": "Local arterial",
+    "area": "Salt Lake City",
+    "condition": "clear",
+    "description": "Sample clear pavement in Salt Lake City.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "slc-road-advisory",
+    "locationId": "slc",
+    "roadName": "Canyon approach",
+    "area": "Salt Lake City",
+    "condition": "icy",
+    "description": "Sample advisory surface in Salt Lake City. Not a live road report.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "west-jordan-road-clear",
+    "locationId": "west-jordan",
+    "roadName": "Local arterial",
+    "area": "West Jordan",
+    "condition": "clear",
+    "description": "Sample clear pavement in West Jordan.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "west-jordan-road-advisory",
+    "locationId": "west-jordan",
+    "roadName": "West-side connector",
+    "area": "West Jordan",
+    "condition": "wet",
+    "description": "Sample advisory surface in West Jordan. Not a live road report.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "sandy-road-clear",
+    "locationId": "sandy",
+    "roadName": "Local arterial",
+    "area": "Sandy",
+    "condition": "clear",
+    "description": "Sample clear pavement in Sandy.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "sandy-road-advisory",
+    "locationId": "sandy",
+    "roadName": "West-side connector",
+    "area": "Sandy",
+    "condition": "icy",
+    "description": "Sample advisory surface in Sandy. Not a live road report.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "murray-road-clear",
+    "locationId": "murray",
+    "roadName": "Local arterial",
+    "area": "Murray",
+    "condition": "clear",
+    "description": "Sample clear pavement in Murray.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "murray-road-advisory",
+    "locationId": "murray",
+    "roadName": "West-side connector",
+    "area": "Murray",
+    "condition": "wet",
+    "description": "Sample advisory surface in Murray. Not a live road report.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "draper-road-clear",
+    "locationId": "draper",
+    "roadName": "Local arterial",
+    "area": "Draper",
+    "condition": "clear",
+    "description": "Sample clear pavement in Draper.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "draper-road-advisory",
+    "locationId": "draper",
+    "roadName": "West-side connector",
+    "area": "Draper",
+    "condition": "icy",
+    "description": "Sample advisory surface in Draper. Not a live road report.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "south-jordan-road-clear",
+    "locationId": "south-jordan",
+    "roadName": "Local arterial",
+    "area": "South Jordan",
+    "condition": "clear",
+    "description": "Sample clear pavement in South Jordan.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "south-jordan-road-advisory",
+    "locationId": "south-jordan",
+    "roadName": "West-side connector",
+    "area": "South Jordan",
+    "condition": "wet",
+    "description": "Sample advisory surface in South Jordan. Not a live road report.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "taylorsville-road-clear",
+    "locationId": "taylorsville",
+    "roadName": "Local arterial",
+    "area": "Taylorsville",
+    "condition": "clear",
+    "description": "Sample clear pavement in Taylorsville.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  },
+  {
+    "id": "taylorsville-road-advisory",
+    "locationId": "taylorsville",
+    "roadName": "West-side connector",
+    "area": "Taylorsville",
+    "condition": "icy",
+    "description": "Sample advisory surface in Taylorsville. Not a live road report.",
+    "updatedAt": "2026-01-12T08:30:00-07:00",
+    "isMockData": true
+  }
+]

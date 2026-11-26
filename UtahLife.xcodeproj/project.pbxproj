@@ -1,0 +1,639 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A10000000000000000000023 /* CoreKit in Frameworks */ = {isa = PBXBuildFile; productRef = A10000000000000000000022 /* CoreKit */; };
+		A10000000000000000000026 /* DesignSystem in Frameworks */ = {isa = PBXBuildFile; productRef = A10000000000000000000025 /* DesignSystem */; };
+		A10000000000000000000029 /* DomainKit in Frameworks */ = {isa = PBXBuildFile; productRef = A10000000000000000000028 /* DomainKit */; };
+		A1000000000000000000002C /* DataKit in Frameworks */ = {isa = PBXBuildFile; productRef = A1000000000000000000002B /* DataKit */; };
+		A1000000000000000000002F /* HomeFeature in Frameworks */ = {isa = PBXBuildFile; productRef = A1000000000000000000002E /* HomeFeature */; };
+		A10000000000000000000032 /* ExploreFeature in Frameworks */ = {isa = PBXBuildFile; productRef = A10000000000000000000031 /* ExploreFeature */; };
+		A10000000000000000000035 /* TravelFeature in Frameworks */ = {isa = PBXBuildFile; productRef = A10000000000000000000034 /* TravelFeature */; };
+		A10000000000000000000038 /* EnvironmentFeature in Frameworks */ = {isa = PBXBuildFile; productRef = A10000000000000000000037 /* EnvironmentFeature */; };
+		A1000000000000000000003B /* AlertsFeature in Frameworks */ = {isa = PBXBuildFile; productRef = A1000000000000000000003A /* AlertsFeature */; };
+		A1000000000000000000004C /* CoreKit in Frameworks */ = {isa = PBXBuildFile; productRef = A10000000000000000000022 /* CoreKit */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A10000000000000000000016 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A10000000000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A10000000000000000000002;
+			remoteInfo = UtahLife;
+		};
+		A10000000000000000000017 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A10000000000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A10000000000000000000002;
+			remoteInfo = UtahLife;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A1000000000000000000000A /* UtahLife.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UtahLife.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1000000000000000000000B /* UtahLifeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UtahLifeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1000000000000000000000C /* UtahLifeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UtahLifeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		A10000000000000000000005 /* UtahLife */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = UtahLife;
+			sourceTree = "<group>";
+		};
+		A10000000000000000000006 /* UtahLifeTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = UtahLifeTests;
+			sourceTree = "<group>";
+		};
+		A10000000000000000000007 /* UtahLifeUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = UtahLifeUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A1000000000000000000000E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000000000000000000023 /* CoreKit in Frameworks */,
+				A10000000000000000000026 /* DesignSystem in Frameworks */,
+				A10000000000000000000029 /* DomainKit in Frameworks */,
+				A1000000000000000000002C /* DataKit in Frameworks */,
+				A1000000000000000000002F /* HomeFeature in Frameworks */,
+				A10000000000000000000032 /* ExploreFeature in Frameworks */,
+				A10000000000000000000035 /* TravelFeature in Frameworks */,
+				A10000000000000000000038 /* EnvironmentFeature in Frameworks */,
+				A1000000000000000000003B /* AlertsFeature in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A10000000000000000000011 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1000000000000000000004C /* CoreKit in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A10000000000000000000014 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A10000000000000000000008 = {
+			isa = PBXGroup;
+			children = (
+				A10000000000000000000005 /* UtahLife */,
+				A10000000000000000000006 /* UtahLifeTests */,
+				A10000000000000000000007 /* UtahLifeUITests */,
+				A10000000000000000000009 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A10000000000000000000009 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A1000000000000000000000A /* UtahLife.app */,
+				A1000000000000000000000B /* UtahLifeTests.xctest */,
+				A1000000000000000000000C /* UtahLifeUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A10000000000000000000002 /* UtahLife */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A10000000000000000000045 /* Build configuration list for PBXNativeTarget "UtahLife" */;
+			buildPhases = (
+				A1000000000000000000000D /* Sources */,
+				A1000000000000000000000E /* Frameworks */,
+				A1000000000000000000000F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				A10000000000000000000005 /* UtahLife */,
+			);
+			name = UtahLife;
+			packageProductDependencies = (
+				A10000000000000000000022 /* CoreKit */,
+				A10000000000000000000025 /* DesignSystem */,
+				A10000000000000000000028 /* DomainKit */,
+				A1000000000000000000002B /* DataKit */,
+				A1000000000000000000002E /* HomeFeature */,
+				A10000000000000000000031 /* ExploreFeature */,
+				A10000000000000000000034 /* TravelFeature */,
+				A10000000000000000000037 /* EnvironmentFeature */,
+				A1000000000000000000003A /* AlertsFeature */,
+			);
+			productName = UtahLife;
+			productReference = A1000000000000000000000A /* UtahLife.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A10000000000000000000003 /* UtahLifeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A10000000000000000000048 /* Build configuration list for PBXNativeTarget "UtahLifeTests" */;
+			buildPhases = (
+				A10000000000000000000010 /* Sources */,
+				A10000000000000000000011 /* Frameworks */,
+				A10000000000000000000012 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A10000000000000000000018 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A10000000000000000000006 /* UtahLifeTests */,
+			);
+			name = UtahLifeTests;
+			packageProductDependencies = (
+				A10000000000000000000022 /* CoreKit */,
+			);
+			productName = UtahLifeTests;
+			productReference = A1000000000000000000000B /* UtahLifeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		A10000000000000000000004 /* UtahLifeUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A1000000000000000000004B /* Build configuration list for PBXNativeTarget "UtahLifeUITests" */;
+			buildPhases = (
+				A10000000000000000000013 /* Sources */,
+				A10000000000000000000014 /* Frameworks */,
+				A10000000000000000000015 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A10000000000000000000019 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A10000000000000000000007 /* UtahLifeUITests */,
+			);
+			name = UtahLifeUITests;
+			packageProductDependencies = (
+			);
+			productName = UtahLifeUITests;
+			productReference = A1000000000000000000000C /* UtahLifeUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A10000000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2720;
+				LastUpgradeCheck = 2720;
+				TargetAttributes = {
+					A10000000000000000000002 = {
+						CreatedOnToolsVersion = 27.2;
+					};
+					A10000000000000000000003 = {
+						CreatedOnToolsVersion = 27.2;
+						TestTargetID = A10000000000000000000002;
+					};
+					A10000000000000000000004 = {
+						CreatedOnToolsVersion = 27.2;
+						TestTargetID = A10000000000000000000002;
+					};
+				};
+			};
+			buildConfigurationList = A10000000000000000000042 /* Build configuration list for PBXProject "UtahLife" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A10000000000000000000008;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				A10000000000000000000021 /* XCLocalSwiftPackageReference "Packages/CoreKit" */,
+				A10000000000000000000024 /* XCLocalSwiftPackageReference "Packages/DesignSystem" */,
+				A10000000000000000000027 /* XCLocalSwiftPackageReference "Packages/DomainKit" */,
+				A1000000000000000000002A /* XCLocalSwiftPackageReference "Packages/DataKit" */,
+				A1000000000000000000002D /* XCLocalSwiftPackageReference "Packages/HomeFeature" */,
+				A10000000000000000000030 /* XCLocalSwiftPackageReference "Packages/ExploreFeature" */,
+				A10000000000000000000033 /* XCLocalSwiftPackageReference "Packages/TravelFeature" */,
+				A10000000000000000000036 /* XCLocalSwiftPackageReference "Packages/EnvironmentFeature" */,
+				A10000000000000000000039 /* XCLocalSwiftPackageReference "Packages/AlertsFeature" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = A10000000000000000000009 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A10000000000000000000002 /* UtahLife */,
+				A10000000000000000000003 /* UtahLifeTests */,
+				A10000000000000000000004 /* UtahLifeUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A1000000000000000000000F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A10000000000000000000012 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A10000000000000000000015 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A1000000000000000000000D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A10000000000000000000010 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A10000000000000000000013 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A10000000000000000000018 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A10000000000000000000002 /* UtahLife */;
+			targetProxy = A10000000000000000000016 /* PBXContainerItemProxy */;
+		};
+		A10000000000000000000019 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A10000000000000000000002 /* UtahLife */;
+			targetProxy = A10000000000000000000017 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A10000000000000000000040 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		A10000000000000000000041 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A10000000000000000000043 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = NF888C7D49;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = UtahLife;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.utahlife.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Utah Life development";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		A10000000000000000000044 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = NF888C7D49;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = UtahLife;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.utahlife.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Utah Life development";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		A10000000000000000000046 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.utahlife.app.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UtahLife.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UtahLife";
+			};
+			name = Debug;
+		};
+		A10000000000000000000047 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.utahlife.app.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UtahLife.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UtahLife";
+			};
+			name = Release;
+		};
+		A10000000000000000000049 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.utahlife.app.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = UtahLife;
+			};
+			name = Debug;
+		};
+		A1000000000000000000004A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.utahlife.app.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = UtahLife;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A10000000000000000000042 /* Build configuration list for PBXProject "UtahLife" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A10000000000000000000040 /* Debug */,
+				A10000000000000000000041 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		A10000000000000000000045 /* Build configuration list for PBXNativeTarget "UtahLife" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A10000000000000000000043 /* Debug */,
+				A10000000000000000000044 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		A10000000000000000000048 /* Build configuration list for PBXNativeTarget "UtahLifeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A10000000000000000000046 /* Debug */,
+				A10000000000000000000047 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		A1000000000000000000004B /* Build configuration list for PBXNativeTarget "UtahLifeUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A10000000000000000000049 /* Debug */,
+				A1000000000000000000004A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		A10000000000000000000021 /* XCLocalSwiftPackageReference "Packages/CoreKit" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/CoreKit;
+		};
+		A10000000000000000000024 /* XCLocalSwiftPackageReference "Packages/DesignSystem" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/DesignSystem;
+		};
+		A10000000000000000000027 /* XCLocalSwiftPackageReference "Packages/DomainKit" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/DomainKit;
+		};
+		A1000000000000000000002A /* XCLocalSwiftPackageReference "Packages/DataKit" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/DataKit;
+		};
+		A1000000000000000000002D /* XCLocalSwiftPackageReference "Packages/HomeFeature" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/HomeFeature;
+		};
+		A10000000000000000000030 /* XCLocalSwiftPackageReference "Packages/ExploreFeature" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/ExploreFeature;
+		};
+		A10000000000000000000033 /* XCLocalSwiftPackageReference "Packages/TravelFeature" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/TravelFeature;
+		};
+		A10000000000000000000036 /* XCLocalSwiftPackageReference "Packages/EnvironmentFeature" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/EnvironmentFeature;
+		};
+		A10000000000000000000039 /* XCLocalSwiftPackageReference "Packages/AlertsFeature" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/AlertsFeature;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A10000000000000000000022 /* CoreKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A10000000000000000000021 /* XCLocalSwiftPackageReference "Packages/CoreKit" */;
+			productName = CoreKit;
+		};
+		A10000000000000000000025 /* DesignSystem */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A10000000000000000000024 /* XCLocalSwiftPackageReference "Packages/DesignSystem" */;
+			productName = DesignSystem;
+		};
+		A10000000000000000000028 /* DomainKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A10000000000000000000027 /* XCLocalSwiftPackageReference "Packages/DomainKit" */;
+			productName = DomainKit;
+		};
+		A1000000000000000000002B /* DataKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A1000000000000000000002A /* XCLocalSwiftPackageReference "Packages/DataKit" */;
+			productName = DataKit;
+		};
+		A1000000000000000000002E /* HomeFeature */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A1000000000000000000002D /* XCLocalSwiftPackageReference "Packages/HomeFeature" */;
+			productName = HomeFeature;
+		};
+		A10000000000000000000031 /* ExploreFeature */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A10000000000000000000030 /* XCLocalSwiftPackageReference "Packages/ExploreFeature" */;
+			productName = ExploreFeature;
+		};
+		A10000000000000000000034 /* TravelFeature */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A10000000000000000000033 /* XCLocalSwiftPackageReference "Packages/TravelFeature" */;
+			productName = TravelFeature;
+		};
+		A10000000000000000000037 /* EnvironmentFeature */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A10000000000000000000036 /* XCLocalSwiftPackageReference "Packages/EnvironmentFeature" */;
+			productName = EnvironmentFeature;
+		};
+		A1000000000000000000003A /* AlertsFeature */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A10000000000000000000039 /* XCLocalSwiftPackageReference "Packages/AlertsFeature" */;
+			productName = AlertsFeature;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = A10000000000000000000001 /* Project object */;
+}

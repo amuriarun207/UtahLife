@@ -1,0 +1,65 @@
+[
+  {
+    "locationId": "slc",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "aqi": 54,
+    "category": "moderate",
+    "primaryPollutant": "PM2.5",
+    "sourceLabel": "Local sample fixture",
+    "isMockData": true
+  },
+  {
+    "locationId": "west-jordan",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "aqi": 42,
+    "category": "good",
+    "primaryPollutant": "Ozone",
+    "sourceLabel": "Local sample fixture",
+    "isMockData": true
+  },
+  {
+    "locationId": "sandy",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "aqi": 88,
+    "category": "moderate",
+    "primaryPollutant": "PM10",
+    "sourceLabel": "Local sample fixture",
+    "isMockData": true
+  },
+  {
+    "locationId": "murray",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "aqi": 61,
+    "category": "moderate",
+    "primaryPollutant": "NO2",
+    "sourceLabel": "Local sample fixture",
+    "isMockData": true
+  },
+  {
+    "locationId": "draper",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "aqi": 112,
+    "category": "unhealthyForSensitiveGroups",
+    "primaryPollutant": "PM2.5",
+    "sourceLabel": "Local sample fixture",
+    "isMockData": true
+  },
+  {
+    "locationId": "south-jordan",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "aqi": 36,
+    "category": "good",
+    "primaryPollutant": "Ozone",
+    "sourceLabel": "Local sample fixture",
+    "isMockData": true
+  },
+  {
+    "locationId": "taylorsville",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "aqi": 73,
+    "category": "moderate",
+    "primaryPollutant": "PM2.5",
+    "sourceLabel": "Local sample fixture",
+    "isMockData": true
+  }
+]

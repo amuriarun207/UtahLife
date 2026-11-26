@@ -1,0 +1,114 @@
+[
+  {
+    "id": "slc-camera-main",
+    "locationId": "slc",
+    "name": "Salt Lake City sample camera",
+    "road": "I-15",
+    "area": "Salt Lake City",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "slc-camera-cross",
+    "locationId": "slc",
+    "name": "Salt Lake City crossroad sample",
+    "road": "State Street",
+    "area": "Salt Lake City",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "west-jordan-camera-main",
+    "locationId": "west-jordan",
+    "name": "West Jordan sample camera",
+    "road": "Local arterial",
+    "area": "West Jordan",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "west-jordan-camera-cross",
+    "locationId": "west-jordan",
+    "name": "West Jordan crossroad sample",
+    "road": "Crossroad",
+    "area": "West Jordan",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "sandy-camera-main",
+    "locationId": "sandy",
+    "name": "Sandy sample camera",
+    "road": "Local arterial",
+    "area": "Sandy",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "sandy-camera-cross",
+    "locationId": "sandy",
+    "name": "Sandy crossroad sample",
+    "road": "Crossroad",
+    "area": "Sandy",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "murray-camera-main",
+    "locationId": "murray",
+    "name": "Murray sample camera",
+    "road": "Local arterial",
+    "area": "Murray",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "murray-camera-cross",
+    "locationId": "murray",
+    "name": "Murray crossroad sample",
+    "road": "Crossroad",
+    "area": "Murray",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "draper-camera-main",
+    "locationId": "draper",
+    "name": "Draper sample camera",
+    "road": "Local arterial",
+    "area": "Draper",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "draper-camera-cross",
+    "locationId": "draper",
+    "name": "Draper crossroad sample",
+    "road": "Crossroad",
+    "area": "Draper",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "south-jordan-camera-main",
+    "locationId": "south-jordan",
+    "name": "South Jordan sample camera",
+    "road": "Local arterial",
+    "area": "South Jordan",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "south-jordan-camera-cross",
+    "locationId": "south-jordan",
+    "name": "South Jordan crossroad sample",
+    "road": "Crossroad",
+    "area": "South Jordan",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "taylorsville-camera-main",
+    "locationId": "taylorsville",
+    "name": "Taylorsville sample camera",
+    "road": "Local arterial",
+    "area": "Taylorsville",
+    "sampleStatus": "Sample still"
+  },
+  {
+    "id": "taylorsville-camera-cross",
+    "locationId": "taylorsville",
+    "name": "Taylorsville crossroad sample",
+    "road": "Crossroad",
+    "area": "Taylorsville",
+    "sampleStatus": "Sample still"
+  }
+]

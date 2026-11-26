@@ -1,0 +1,842 @@
+[
+  {
+    "id": "slc-hour-08",
+    "locationId": "slc",
+    "dateTime": "2026-01-12T08:00:00-07:00",
+    "temperature": {
+      "value": 26,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 5,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "slc-hour-09",
+    "locationId": "slc",
+    "dateTime": "2026-01-12T09:00:00-07:00",
+    "temperature": {
+      "value": 27,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 9,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "slc-hour-10",
+    "locationId": "slc",
+    "dateTime": "2026-01-12T10:00:00-07:00",
+    "temperature": {
+      "value": 28,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 13,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "slc-hour-11",
+    "locationId": "slc",
+    "dateTime": "2026-01-12T11:00:00-07:00",
+    "temperature": {
+      "value": 29,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 17,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "slc-hour-12",
+    "locationId": "slc",
+    "dateTime": "2026-01-12T12:00:00-07:00",
+    "temperature": {
+      "value": 30,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 21,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "slc-hour-13",
+    "locationId": "slc",
+    "dateTime": "2026-01-12T13:00:00-07:00",
+    "temperature": {
+      "value": 31,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 25,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "slc-hour-14",
+    "locationId": "slc",
+    "dateTime": "2026-01-12T14:00:00-07:00",
+    "temperature": {
+      "value": 32,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 29,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "slc-hour-15",
+    "locationId": "slc",
+    "dateTime": "2026-01-12T15:00:00-07:00",
+    "temperature": {
+      "value": 33,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 33,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "west-jordan-hour-08",
+    "locationId": "west-jordan",
+    "dateTime": "2026-01-12T08:00:00-07:00",
+    "temperature": {
+      "value": 27,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 5,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "west-jordan-hour-09",
+    "locationId": "west-jordan",
+    "dateTime": "2026-01-12T09:00:00-07:00",
+    "temperature": {
+      "value": 28,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 9,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "west-jordan-hour-10",
+    "locationId": "west-jordan",
+    "dateTime": "2026-01-12T10:00:00-07:00",
+    "temperature": {
+      "value": 29,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 13,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "west-jordan-hour-11",
+    "locationId": "west-jordan",
+    "dateTime": "2026-01-12T11:00:00-07:00",
+    "temperature": {
+      "value": 30,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 17,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "west-jordan-hour-12",
+    "locationId": "west-jordan",
+    "dateTime": "2026-01-12T12:00:00-07:00",
+    "temperature": {
+      "value": 31,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 21,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "west-jordan-hour-13",
+    "locationId": "west-jordan",
+    "dateTime": "2026-01-12T13:00:00-07:00",
+    "temperature": {
+      "value": 32,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 25,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "west-jordan-hour-14",
+    "locationId": "west-jordan",
+    "dateTime": "2026-01-12T14:00:00-07:00",
+    "temperature": {
+      "value": 33,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 29,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "west-jordan-hour-15",
+    "locationId": "west-jordan",
+    "dateTime": "2026-01-12T15:00:00-07:00",
+    "temperature": {
+      "value": 34,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 33,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "sandy-hour-08",
+    "locationId": "sandy",
+    "dateTime": "2026-01-12T08:00:00-07:00",
+    "temperature": {
+      "value": 28,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 5,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "sandy-hour-09",
+    "locationId": "sandy",
+    "dateTime": "2026-01-12T09:00:00-07:00",
+    "temperature": {
+      "value": 29,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 9,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "sandy-hour-10",
+    "locationId": "sandy",
+    "dateTime": "2026-01-12T10:00:00-07:00",
+    "temperature": {
+      "value": 30,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 13,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "sandy-hour-11",
+    "locationId": "sandy",
+    "dateTime": "2026-01-12T11:00:00-07:00",
+    "temperature": {
+      "value": 31,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 17,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "sandy-hour-12",
+    "locationId": "sandy",
+    "dateTime": "2026-01-12T12:00:00-07:00",
+    "temperature": {
+      "value": 32,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 21,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "sandy-hour-13",
+    "locationId": "sandy",
+    "dateTime": "2026-01-12T13:00:00-07:00",
+    "temperature": {
+      "value": 33,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 25,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "sandy-hour-14",
+    "locationId": "sandy",
+    "dateTime": "2026-01-12T14:00:00-07:00",
+    "temperature": {
+      "value": 34,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 29,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "sandy-hour-15",
+    "locationId": "sandy",
+    "dateTime": "2026-01-12T15:00:00-07:00",
+    "temperature": {
+      "value": 35,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 33,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "murray-hour-08",
+    "locationId": "murray",
+    "dateTime": "2026-01-12T08:00:00-07:00",
+    "temperature": {
+      "value": 29,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 5,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "murray-hour-09",
+    "locationId": "murray",
+    "dateTime": "2026-01-12T09:00:00-07:00",
+    "temperature": {
+      "value": 30,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 9,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "murray-hour-10",
+    "locationId": "murray",
+    "dateTime": "2026-01-12T10:00:00-07:00",
+    "temperature": {
+      "value": 31,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 13,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "murray-hour-11",
+    "locationId": "murray",
+    "dateTime": "2026-01-12T11:00:00-07:00",
+    "temperature": {
+      "value": 32,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 17,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "murray-hour-12",
+    "locationId": "murray",
+    "dateTime": "2026-01-12T12:00:00-07:00",
+    "temperature": {
+      "value": 33,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 21,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "murray-hour-13",
+    "locationId": "murray",
+    "dateTime": "2026-01-12T13:00:00-07:00",
+    "temperature": {
+      "value": 34,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 25,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "murray-hour-14",
+    "locationId": "murray",
+    "dateTime": "2026-01-12T14:00:00-07:00",
+    "temperature": {
+      "value": 35,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 29,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "murray-hour-15",
+    "locationId": "murray",
+    "dateTime": "2026-01-12T15:00:00-07:00",
+    "temperature": {
+      "value": 36,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 33,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "draper-hour-08",
+    "locationId": "draper",
+    "dateTime": "2026-01-12T08:00:00-07:00",
+    "temperature": {
+      "value": 30,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 5,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "draper-hour-09",
+    "locationId": "draper",
+    "dateTime": "2026-01-12T09:00:00-07:00",
+    "temperature": {
+      "value": 31,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 9,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "draper-hour-10",
+    "locationId": "draper",
+    "dateTime": "2026-01-12T10:00:00-07:00",
+    "temperature": {
+      "value": 32,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 13,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "draper-hour-11",
+    "locationId": "draper",
+    "dateTime": "2026-01-12T11:00:00-07:00",
+    "temperature": {
+      "value": 33,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 17,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "draper-hour-12",
+    "locationId": "draper",
+    "dateTime": "2026-01-12T12:00:00-07:00",
+    "temperature": {
+      "value": 34,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 21,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "draper-hour-13",
+    "locationId": "draper",
+    "dateTime": "2026-01-12T13:00:00-07:00",
+    "temperature": {
+      "value": 35,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 25,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "draper-hour-14",
+    "locationId": "draper",
+    "dateTime": "2026-01-12T14:00:00-07:00",
+    "temperature": {
+      "value": 36,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 29,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "draper-hour-15",
+    "locationId": "draper",
+    "dateTime": "2026-01-12T15:00:00-07:00",
+    "temperature": {
+      "value": 37,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 33,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "south-jordan-hour-08",
+    "locationId": "south-jordan",
+    "dateTime": "2026-01-12T08:00:00-07:00",
+    "temperature": {
+      "value": 31,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 5,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "south-jordan-hour-09",
+    "locationId": "south-jordan",
+    "dateTime": "2026-01-12T09:00:00-07:00",
+    "temperature": {
+      "value": 32,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 9,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "south-jordan-hour-10",
+    "locationId": "south-jordan",
+    "dateTime": "2026-01-12T10:00:00-07:00",
+    "temperature": {
+      "value": 33,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 13,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "south-jordan-hour-11",
+    "locationId": "south-jordan",
+    "dateTime": "2026-01-12T11:00:00-07:00",
+    "temperature": {
+      "value": 34,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 17,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "south-jordan-hour-12",
+    "locationId": "south-jordan",
+    "dateTime": "2026-01-12T12:00:00-07:00",
+    "temperature": {
+      "value": 35,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 21,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "south-jordan-hour-13",
+    "locationId": "south-jordan",
+    "dateTime": "2026-01-12T13:00:00-07:00",
+    "temperature": {
+      "value": 36,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 25,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "south-jordan-hour-14",
+    "locationId": "south-jordan",
+    "dateTime": "2026-01-12T14:00:00-07:00",
+    "temperature": {
+      "value": 37,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 29,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "south-jordan-hour-15",
+    "locationId": "south-jordan",
+    "dateTime": "2026-01-12T15:00:00-07:00",
+    "temperature": {
+      "value": 38,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 33,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "taylorsville-hour-08",
+    "locationId": "taylorsville",
+    "dateTime": "2026-01-12T08:00:00-07:00",
+    "temperature": {
+      "value": 32,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 5,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "taylorsville-hour-09",
+    "locationId": "taylorsville",
+    "dateTime": "2026-01-12T09:00:00-07:00",
+    "temperature": {
+      "value": 33,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 9,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "taylorsville-hour-10",
+    "locationId": "taylorsville",
+    "dateTime": "2026-01-12T10:00:00-07:00",
+    "temperature": {
+      "value": 34,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 13,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "taylorsville-hour-11",
+    "locationId": "taylorsville",
+    "dateTime": "2026-01-12T11:00:00-07:00",
+    "temperature": {
+      "value": 35,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "precipitationProbability": {
+      "value": 17,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "taylorsville-hour-12",
+    "locationId": "taylorsville",
+    "dateTime": "2026-01-12T12:00:00-07:00",
+    "temperature": {
+      "value": 36,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "precipitationProbability": {
+      "value": 21,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "taylorsville-hour-13",
+    "locationId": "taylorsville",
+    "dateTime": "2026-01-12T13:00:00-07:00",
+    "temperature": {
+      "value": 37,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "precipitationProbability": {
+      "value": 25,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "taylorsville-hour-14",
+    "locationId": "taylorsville",
+    "dateTime": "2026-01-12T14:00:00-07:00",
+    "temperature": {
+      "value": 38,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 29,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "id": "taylorsville-hour-15",
+    "locationId": "taylorsville",
+    "dateTime": "2026-01-12T15:00:00-07:00",
+    "temperature": {
+      "value": 39,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "precipitationProbability": {
+      "value": 33,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  }
+]

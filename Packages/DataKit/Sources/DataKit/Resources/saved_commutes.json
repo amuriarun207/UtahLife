@@ -1,0 +1,114 @@
+[
+  {
+    "id": "slc-commute-weekday",
+    "locationId": "slc",
+    "name": "Weekday sample",
+    "origin": "Salt Lake City neighborhoods",
+    "destination": "Downtown Salt Lake City",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "slc-commute-errand",
+    "locationId": "slc",
+    "name": "Errand sample",
+    "origin": "Salt Lake City",
+    "destination": "Salt Lake City civic center",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "west-jordan-commute-weekday",
+    "locationId": "west-jordan",
+    "name": "Weekday sample",
+    "origin": "West Jordan neighborhoods",
+    "destination": "Downtown Salt Lake City",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "west-jordan-commute-errand",
+    "locationId": "west-jordan",
+    "name": "Errand sample",
+    "origin": "West Jordan",
+    "destination": "West Jordan civic center",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "sandy-commute-weekday",
+    "locationId": "sandy",
+    "name": "Weekday sample",
+    "origin": "Sandy neighborhoods",
+    "destination": "Downtown Salt Lake City",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "sandy-commute-errand",
+    "locationId": "sandy",
+    "name": "Errand sample",
+    "origin": "Sandy",
+    "destination": "Sandy civic center",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "murray-commute-weekday",
+    "locationId": "murray",
+    "name": "Weekday sample",
+    "origin": "Murray neighborhoods",
+    "destination": "Downtown Salt Lake City",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "murray-commute-errand",
+    "locationId": "murray",
+    "name": "Errand sample",
+    "origin": "Murray",
+    "destination": "Murray civic center",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "draper-commute-weekday",
+    "locationId": "draper",
+    "name": "Weekday sample",
+    "origin": "Draper neighborhoods",
+    "destination": "Downtown Salt Lake City",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "draper-commute-errand",
+    "locationId": "draper",
+    "name": "Errand sample",
+    "origin": "Draper",
+    "destination": "Draper civic center",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "south-jordan-commute-weekday",
+    "locationId": "south-jordan",
+    "name": "Weekday sample",
+    "origin": "South Jordan neighborhoods",
+    "destination": "Downtown Salt Lake City",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "south-jordan-commute-errand",
+    "locationId": "south-jordan",
+    "name": "Errand sample",
+    "origin": "South Jordan",
+    "destination": "South Jordan civic center",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "taylorsville-commute-weekday",
+    "locationId": "taylorsville",
+    "name": "Weekday sample",
+    "origin": "Taylorsville neighborhoods",
+    "destination": "Downtown Salt Lake City",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  },
+  {
+    "id": "taylorsville-commute-errand",
+    "locationId": "taylorsville",
+    "name": "Errand sample",
+    "origin": "Taylorsville",
+    "destination": "Taylorsville civic center",
+    "sampleNote": "Sample route only. UtahLife does not calculate live travel times."
+  }
+]
