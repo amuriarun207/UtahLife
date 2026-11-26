@@ -1,0 +1,79 @@
+[
+  {
+    "id": "slc",
+    "name": "Salt Lake City",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "postalCode": "84101",
+    "latitude": 40.7608,
+    "longitude": -111.891,
+    "timezoneIdentifier": "America/Denver",
+    "isDefault": true
+  },
+  {
+    "id": "west-jordan",
+    "name": "West Jordan",
+    "city": "West Jordan",
+    "state": "UT",
+    "postalCode": "84084",
+    "latitude": 40.6097,
+    "longitude": -111.9391,
+    "timezoneIdentifier": "America/Denver",
+    "isDefault": false
+  },
+  {
+    "id": "sandy",
+    "name": "Sandy",
+    "city": "Sandy",
+    "state": "UT",
+    "postalCode": "84070",
+    "latitude": 40.5649,
+    "longitude": -111.8389,
+    "timezoneIdentifier": "America/Denver",
+    "isDefault": false
+  },
+  {
+    "id": "murray",
+    "name": "Murray",
+    "city": "Murray",
+    "state": "UT",
+    "postalCode": "84107",
+    "latitude": 40.6669,
+    "longitude": -111.888,
+    "timezoneIdentifier": "America/Denver",
+    "isDefault": false
+  },
+  {
+    "id": "draper",
+    "name": "Draper",
+    "city": "Draper",
+    "state": "UT",
+    "postalCode": "84020",
+    "latitude": 40.5247,
+    "longitude": -111.8638,
+    "timezoneIdentifier": "America/Denver",
+    "isDefault": false
+  },
+  {
+    "id": "south-jordan",
+    "name": "South Jordan",
+    "city": "South Jordan",
+    "state": "UT",
+    "postalCode": "84095",
+    "latitude": 40.5622,
+    "longitude": -111.9297,
+    "timezoneIdentifier": "America/Denver",
+    "isDefault": false
+  },
+  {
+    "id": "taylorsville",
+    "name": "Taylorsville",
+    "city": "Taylorsville",
+    "state": "UT",
+    "postalCode": "84129",
+    "latitude": 40.6677,
+    "longitude": -111.9388,
+    "timezoneIdentifier": "America/Denver",
+    "isDefault": false
+  }
+]

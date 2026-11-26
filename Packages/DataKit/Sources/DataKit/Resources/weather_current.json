@@ -1,0 +1,240 @@
+[
+  {
+    "locationId": "slc",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "temperature": {
+      "value": 28,
+      "unitSymbol": "\u00b0F"
+    },
+    "feelsLike": {
+      "value": 25,
+      "unitSymbol": "\u00b0F"
+    },
+    "high": {
+      "value": 34,
+      "unitSymbol": "\u00b0F"
+    },
+    "low": {
+      "value": 20,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "partlyCloudy",
+    "humidity": {
+      "value": 40,
+      "unitSymbol": "%"
+    },
+    "windSpeed": {
+      "value": 5,
+      "unitSymbol": " mph"
+    },
+    "precipitationProbability": {
+      "value": 10,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "locationId": "west-jordan",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "temperature": {
+      "value": 29,
+      "unitSymbol": "\u00b0F"
+    },
+    "feelsLike": {
+      "value": 26,
+      "unitSymbol": "\u00b0F"
+    },
+    "high": {
+      "value": 35,
+      "unitSymbol": "\u00b0F"
+    },
+    "low": {
+      "value": 21,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "snow",
+    "humidity": {
+      "value": 44,
+      "unitSymbol": "%"
+    },
+    "windSpeed": {
+      "value": 6,
+      "unitSymbol": " mph"
+    },
+    "precipitationProbability": {
+      "value": 17,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "locationId": "sandy",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "temperature": {
+      "value": 30,
+      "unitSymbol": "\u00b0F"
+    },
+    "feelsLike": {
+      "value": 27,
+      "unitSymbol": "\u00b0F"
+    },
+    "high": {
+      "value": 36,
+      "unitSymbol": "\u00b0F"
+    },
+    "low": {
+      "value": 22,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "cloudy",
+    "humidity": {
+      "value": 48,
+      "unitSymbol": "%"
+    },
+    "windSpeed": {
+      "value": 7,
+      "unitSymbol": " mph"
+    },
+    "precipitationProbability": {
+      "value": 24,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "locationId": "murray",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "temperature": {
+      "value": 31,
+      "unitSymbol": "\u00b0F"
+    },
+    "feelsLike": {
+      "value": 28,
+      "unitSymbol": "\u00b0F"
+    },
+    "high": {
+      "value": 37,
+      "unitSymbol": "\u00b0F"
+    },
+    "low": {
+      "value": 23,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "clear",
+    "humidity": {
+      "value": 52,
+      "unitSymbol": "%"
+    },
+    "windSpeed": {
+      "value": 8,
+      "unitSymbol": " mph"
+    },
+    "precipitationProbability": {
+      "value": 31,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "locationId": "draper",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "temperature": {
+      "value": 32,
+      "unitSymbol": "\u00b0F"
+    },
+    "feelsLike": {
+      "value": 29,
+      "unitSymbol": "\u00b0F"
+    },
+    "high": {
+      "value": 38,
+      "unitSymbol": "\u00b0F"
+    },
+    "low": {
+      "value": 24,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "fog",
+    "humidity": {
+      "value": 56,
+      "unitSymbol": "%"
+    },
+    "windSpeed": {
+      "value": 9,
+      "unitSymbol": " mph"
+    },
+    "precipitationProbability": {
+      "value": 38,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "locationId": "south-jordan",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "temperature": {
+      "value": 33,
+      "unitSymbol": "\u00b0F"
+    },
+    "feelsLike": {
+      "value": 30,
+      "unitSymbol": "\u00b0F"
+    },
+    "high": {
+      "value": 39,
+      "unitSymbol": "\u00b0F"
+    },
+    "low": {
+      "value": 25,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "wind",
+    "humidity": {
+      "value": 60,
+      "unitSymbol": "%"
+    },
+    "windSpeed": {
+      "value": 10,
+      "unitSymbol": " mph"
+    },
+    "precipitationProbability": {
+      "value": 45,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  },
+  {
+    "locationId": "taylorsville",
+    "observedAt": "2026-01-12T08:30:00-07:00",
+    "temperature": {
+      "value": 34,
+      "unitSymbol": "\u00b0F"
+    },
+    "feelsLike": {
+      "value": 31,
+      "unitSymbol": "\u00b0F"
+    },
+    "high": {
+      "value": 40,
+      "unitSymbol": "\u00b0F"
+    },
+    "low": {
+      "value": 26,
+      "unitSymbol": "\u00b0F"
+    },
+    "condition": "rain",
+    "humidity": {
+      "value": 64,
+      "unitSymbol": "%"
+    },
+    "windSpeed": {
+      "value": 11,
+      "unitSymbol": " mph"
+    },
+    "precipitationProbability": {
+      "value": 52,
+      "unitSymbol": "%"
+    },
+    "isMockData": true
+  }
+]
